@@ -1,16 +1,16 @@
 
-@media (max-width: 634px) {
+@media (max-width: 1000px) {
   header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 1em;
+    padding: 16px;
     text-align: center;
   }
 
   header h1 {
-    font-size: 1.2em;
-    margin-bottom: 0.5em;
+    font-size: 19.2px;
+    margin-bottom: 8px;
   }
 
   nav ul {
@@ -21,7 +21,7 @@
   }
 
   nav ul li {
-    margin: 0.5em 0;
+    margin: 8px 0;
     text-align: center;
   }
 
@@ -29,4 +29,12 @@
     max-width: 100%;
     height: auto;
   }
+
+
+.contacto{
+	max-width: 10px;
+	height: auto;
+}
+
+  
 }
